@@ -29,7 +29,7 @@ def checkRPS(x,y):
         result = "Player one wins!"
     elif second == 3 and first == 1:
         result = "Player one wins!"
-    else :
+    else:
         result = "Tie!"
 
     return result
